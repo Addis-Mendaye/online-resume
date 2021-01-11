@@ -1,0 +1,98 @@
+
+body {
+    background-color: rgb(224, 228, 173);
+}
+
+.contact{
+
+    font-size:20px;
+    font-weight:700;
+    color: rgb(59, 19, 6);
+    margin: 30px 30px;
+    padding:10px;
+
+}
+.profile {
+    color: rgb(59, 19, 6);
+    font-weight: bold;
+    margin: 30px 20px;
+    padding:5px;
+}
+
+
+.top-wrapper {
+    color:white;
+    background-color: rgb(126, 108, 20);
+    
+}
+
+.top-title {
+    text-align: center;
+    color: rgb(59, 19, 6);
+    display: block;
+    justify-content: right;
+    
+    font-weight: bold;
+} 
+}
+.top-container li{
+    text-decoration: none;
+}
+.container-fluid {
+    background-color: rgb(126, 108, 20);
+     display: flex;
+    justify-content: space-around; 
+    padding-top: 20px;
+     padding-left: 20px; 
+    font-size: medium;
+    color:white ;
+}
+table{
+   
+    color:rgb(166, 255, 0) ;
+     width: 700px;
+    
+    
+    
+
+}
+
+/* }
+.courses {
+    padding-right: 25px;
+
+   
+}
+li .course-name {
+    font-size: 10px;
+    text-align:  right;
+}
+
+.Experience {
+    background-color: rgb(176, 222, 194);
+    font-size: 10px;
+    padding-bottom:100px;
+
+}
+
+
+.educational.heading {
+   
+    font-size: 20px;
+    border: 1px dashed black;
+    grid-template-columns: 60px 60px;
+    padding: 2px;
+    border: 1px solid #E88741;
+}
+
+
+.independent {
+  font-size: 15px;
+  padding-bottom:50px;
+  padding-top: 50px;
+} 
+h6{
+    background-color: rgb(176, 222, 194);
+    font-size: 10px;
+    padding-bottom:100px; 
+} */
